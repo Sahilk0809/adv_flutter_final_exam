@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190811670513",
+    "project_id": "exam-e736c",
+    "storage_bucket": "exam-e736c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190811670513:android:362e094804a8ba727f6650",
+        "android_client_info": {
+          "package_name": "com.example.adv_flutter_final_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8NHpaHzD82FhlhibU4ebp64orOUezKRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
