@@ -1,7 +1,8 @@
 # adv_flutter_final_exam
 
 ## Description
-Used database for storing expense and user can store data on cloud and can fetch data from cloud when it is deleted from local.
+A Flutter-based expense tracking app that leverages SQL for local data management and Firebase for cloud storage. It supports full CRUD operations in SQL to add, edit, delete, and retrieve expenses, ensuring smooth offline functionality. Firebase integration enables syncing data across devices, offering a seamless blend of offline and online tracking.
+
 
 <img src="https://github.com/user-attachments/assets/e719a646-046f-42d9-b86a-ac2ad1d247d8" height=65% width=22%>
 <img src="https://github.com/user-attachments/assets/93ae4842-c8f7-4c83-8fbd-57c9105e8e0c" height=65% width=22%>
